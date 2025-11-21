@@ -75,7 +75,7 @@ export default function HomePage() {
   <div className="w-full overflow-x-hidden">
       <div className="mb-6">
         <h1 className="text-xl font-semibold text-white/95">
-          Welcome back, Kirtan
+            Welcome to StreamBox 
         </h1>
         <p className="text-sm text-white/50 mt-1">
           Dive into hand-picked categories and discover your next favorite title.
